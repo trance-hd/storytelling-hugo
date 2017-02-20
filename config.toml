@@ -8,6 +8,7 @@ theme="dimension"
   description = '<!--[-->Create imaginative narratives in our storyingtelling AR platform<!--]-->'
   logo = "fa-book"
   copyright = "Galpo 2016-2017"
+  appName = "Storytelling AR"
 
 [[params.social]]
   medium = "twitter"
