@@ -4,6 +4,12 @@ This is the website submodule repo for the [company's main website](http://tranc
 
 ## Installation
 
+Clone this project with submodules.
+
+```
+git clone --recursive git@github.com:trance-hd/storytelling-hugo.git
+```
+
 Be sure to have Hugo installed.
 
 ### With Brew
