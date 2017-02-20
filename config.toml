@@ -1,0 +1,30 @@
+title = "My New Hugo Site"
+baseurl = "http://trance-hd.github.io/"
+languageCode = "en-us"
+theme="dimension"
+
+[params]
+  title = "Galpo"
+  description = '<!--[-->Create imaginative narratives in our storyingtelling AR platform<!--]-->'
+  logo = "fa-book"
+  copyright = "Galpo 2016-2017"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "#"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "#"
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "#"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "#"
