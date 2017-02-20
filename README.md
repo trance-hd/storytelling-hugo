@@ -10,7 +10,11 @@ Clone this project with submodules.
 git clone --recursive git@github.com:trance-hd/storytelling-hugo.git
 ```
 
-Be sure to have Hugo installed.
+Should have installed (MacOSX)
+- terminal (I use [iTerm2](https://www.iterm2.com/))
+- [git](https://git-scm.com/)
+- [brew](https://brew.sh/)
+- [hugo](https://gohugo.io/) (see below)
 
 ### With Brew
 
