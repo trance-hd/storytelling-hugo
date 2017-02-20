@@ -24,7 +24,7 @@ brew update && brew install hugo
 
 ## File Organization
 
-We're using the [dimension]() theme.
+We're using the [dimension](https://github.com/sethmacleod/dimension/) theme.
 Any changes to the theme will be in the other folders.
 For example, if we need to make changes to `theme/dimensions/layouts/index.html`,
 we have to copy that file and add that to `layouts/index.html` and edit that file.
